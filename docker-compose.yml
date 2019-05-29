@@ -1,0 +1,8 @@
+version: '2.1'
+
+services:
+  flask_webapi:
+    image: flask_webapi
+    build: .
+    ports:
+      - 5000:5000
