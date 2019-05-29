@@ -1,6 +1,6 @@
 from .. import db, flask_bcrypt
 import datetime
-from app.main.model.blacklist import BlacklistToken
+from app.main.models.blacklist import BlacklistToken
 from ..config import key
 import jwt
 
