@@ -20,7 +20,7 @@ ENV BOILERPLATE_ENV prod
 
 
 # Using pip:
-RUN python -m pip install -r requirements.txt
+RUN python3 -m pip install -r requirements.txt
 # CMD ["python", "manage.py", "run"]
 
 # Using pipenv:
