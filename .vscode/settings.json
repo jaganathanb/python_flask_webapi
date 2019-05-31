@@ -2,7 +2,5 @@
     "python.pythonPath": ".env\\Scripts\\python.exe",
     "appService.zipIgnorePattern": [
         ".vscode{,/**}"
-    ],
-    "appService.defaultWebAppToDeploy": "/subscriptions/81de797d-1954-4dd5-8174-115c86c0bff5/resourceGroups/appsvc_rg_linux_centralus/providers/Microsoft.Web/sites/vscode-python-webapi",
-    "appService.deploySubpath": ""
+    ]
 }
